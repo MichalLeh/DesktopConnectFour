@@ -5,7 +5,7 @@ The objective of the game is to be the first to form a horizontal, vertical, or 
 
 This is implementation of [Hyperskill's](https://hyperskill.org/projects/226?track=12) project.
 
-### Examples
+### Gameplay example
 
 *Starting the application:*
 
